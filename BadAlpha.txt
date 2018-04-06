@@ -1,0 +1,1621 @@
+[01;32mubuntu@ip-172-31-38-45[00m:[01;34m~/DogFather[00m$ ./launch.sh
+
+[34mBOT RUNNING:[0m	[31m[@Dogfatherbot] [Dogfather] [453040219][0m
+
+Old update skipped
+[33mCron...[0m
+Saving the adminlist for:	-1001099717470
+stop
+^C^C
+[01;32mubuntu@ip-172-31-38-45[00m:[01;34m~/DogFather[00m$ c[K./launch.sh
+
+[34mBOT RUNNING:[0m	[31m[@Dogfatherbot] [Dogfather] [453040219][0m
+
+Old update skipped
+[33mCron...[0m
+[33mCron...[0m
+[0m[34m[20:49:55][31m ^[/!#](extra)%s+(#[%w_]*)%s+(.*)$[0m Pup [346633742] -> [-1001337675455]
+[31m7	Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 61[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+./lua/methods.lua:40: Expected value but found T_END at character 1
+stack traceback:
+	[C]: in function 'decode'
+	./lua/methods.lua:40: in function 'sendRequest'
+	./lua/methods.lua:320: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	...
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/plugins/extra.lua:49: in function <./lua/plugins/extra.lua:20>
+	[C]: in function 'xpcall'
+	./lua/main.lua:107: in function <./lua/main.lua:61>
+	(...tail calls...)
+	./polling.lua:46: in main chunk
+	[C]: in ?
+lua: ./lua/main.lua:112: attempt to call local '_' (a number value)
+stack traceback:
+	./lua/main.lua:112: in function <./lua/main.lua:61>
+	(...tail calls...)
+	./polling.lua:46: in main chunk
+	[C]: in ?
+
+[34mBOT RUNNING:[0m	[31m[@Dogfatherbot] [Dogfather] [453040219][0m
+
+Old update skipped
+[33mCron...[0m
+[33mCron...[0m
+Saving the adminlist for:	-1001353107636
+[0m[34m[21:00:33][31m ^%$[0m Omega Pup Lucky [232424862] -> [-1001353107636]
+[0m[34m[21:00:44][31m ^%$[0m Omega Pup Lucky [232424862] -> [232424862]
+
+[34mBOT RUNNING:[0m	[31m[@Dogfatherbot] [Dogfather] [453040219][0m
+
+[0m[34m[21:00:49][31m ^%$[0m Omega Pup Lucky [232424862] -> [232424862]
+[0m[34m[21:01:31][31m ^%$[0m Omega Pup Lucky [232424862] -> [232424862]
+^[[B
+^[[5~^[[5~
+^[[5~^[[5~
+^[[1~^[[4~.^[	^[       h
+
+[0m[34m[21:18:47][31m ^[/!#](extra)%s+(#[%w_]*)%s+(.*)$[0m Pup [346633742] -> [-1001337675455]
+[31m7	Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 61[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+./lua/methods.lua:40: Expected value but found T_END at character 1
+stack traceback:
+	[C]: in function 'decode'
+	./lua/methods.lua:40: in function 'sendRequest'
+	./lua/methods.lua:320: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	...
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/plugins/extra.lua:49: in function <./lua/plugins/extra.lua:20>
+	[C]: in function 'xpcall'
+	./lua/main.lua:107: in function <./lua/main.lua:61>
+	(...tail calls...)
+	./polling.lua:46: in main chunk
+	[C]: in ?
+lua: ./lua/main.lua:112: attempt to call local '_' (a number value)
+stack traceback:
+	./lua/main.lua:112: in function <./lua/main.lua:61>
+	(...tail calls...)
+	./polling.lua:46: in main chunk
+	[C]: in ?
+
+[34mBOT RUNNING:[0m	[31m[@Dogfatherbot] [Dogfather] [453040219][0m
+
+Old update skipped
+[33mCron...[0m
+^[[B[0m[34m[21:24:22][31m ^%$[0m Omega Pup Lucky [232424862] -> [232424862]
+[0m[34m[21:26:01][31m ^%$[0m Omega Pup Lucky [232424862] -> [-1001353107636]
+./lua/plugins/admin.lua:405: attempt to index field 'reply' (a nil value)
+stack traceback:
+	./lua/plugins/admin.lua:405: in function <./lua/plugins/admin.lua:103>
+	[C]: in function 'xpcall'
+	./lua/main.lua:107: in function <./lua/main.lua:61>
+	(...tail calls...)
+	./polling.lua:46: in main chunk
+	[C]: in ?
+lua: ./lua/main.lua:112: attempt to call local '_' (a number value)
+stack traceback:
+	./lua/main.lua:112: in function <./lua/main.lua:61>
+	(...tail calls...)
+	./polling.lua:46: in main chunk
+	[C]: in ?
+
+[34mBOT RUNNING:[0m	[31m[@Dogfatherbot] [Dogfather] [453040219][0m
+
+Old update skipped
+[33mCron...[0m
+help
+			
+[0m[34m[21:26:32][31m ^%$[0m Omega Pup Lucky [232424862] -> [-1001353107636]
+[0m[34m[21:26:48][31m ^%$[0m Omega Pup Lucky [232424862] -> [232424862]
+
+[34mBOT RUNNING:[0m	[31m[@Dogfatherbot] [Dogfather] [453040219][0m
+
+[0m[34m[21:26:55][31m ^%$[0m Omega Pup Lucky [232424862] -> [232424862]
+[0m[34m[21:27:09][31m ^%$[0m Omega Pup Lucky [232424862] -> [232424862]
+[33mCron...[0m
+[0m[34m[22:00:52][31m ^[/!#](extra)%s+(#[%w_]*)%s+(.*)$[0m Pup [346633742] -> [-1001337675455]
+[31m7	Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 61[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+[31m117	Bad Request: chat not found[0m
+./lua/methods.lua:40: Expected value but found T_END at character 1
+stack traceback:
+	[C]: in function 'decode'
+	./lua/methods.lua:40: in function 'sendRequest'
+	./lua/methods.lua:320: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	...
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/methods.lua:103: in function 'log_error'
+	./lua/methods.lua:323: in function <./lua/methods.lua:295>
+	(...tail calls...)
+	./lua/plugins/extra.lua:49: in function <./lua/plugins/extra.lua:20>
+	[C]: in function 'xpcall'
+	./lua/main.lua:107: in function <./lua/main.lua:61>
+	(...tail calls...)
+	./polling.lua:46: in main chunk
+	[C]: in ?
+lua: ./lua/main.lua:112: attempt to call local '_' (a number value)
+stack traceback:
+	./lua/main.lua:112: in function <./lua/main.lua:61>
+	(...tail calls...)
+	./polling.lua:46: in main chunk
+	[C]: in ?
+
+[34mBOT RUNNING:[0m	[31m[@Dogfatherbot] [Dogfather] [453040219][0m
+
+[33mCron...[0m
+12p^@rs^H^H
+^R
+ 
+s
+^C[0m[34m[22:48:35][31m ^###(new_chat_member)$[0m Pup Racer [493642845] -> [-1001337675455]
+lua: ./lua/main.lua:102: interrupted!
+stack traceback:
+	[C]: in function 'print'
+	./lua/main.lua:102: in function <./lua/main.lua:61>
+	(...tail calls...)
+	./polling.lua:46: in main chunk
+	[C]: in ?
+^C
+[01;32mubuntu@ip-172-31-38-45[00m:[01;34m~/DogFather[00m$ ./launch.sh
+
+[34mBOT RUNNING:[0m	[31m[@Dogfatherbot] [Dogfather] [453040219][0m
+
+Saving the adminlist for:	-1001337675455
+[33mCron...[0m
